@@ -1,0 +1,342 @@
+0
+['and', 'if', 'mum', 'and', 'dad', 'were', 'going', 'to', 'become', 'traitors', 'to', 'the', 'ministry', 'he', 'was', 'going', 'to', 'make', 'sure', 'everyone', 'knew', 'he', 'didn', '’', 't', 'belong', 'to', 'our', 'family', 'anymore', '.']
+1
+['ginny', 'and', 'dean', 'split', 'up', 'too', ',', 'harry.', '”', 'harry', 'thought', 'there', 'was', 'a', 'rather', 'knowing', 'look', 'in', 'her', 'eye', 'as', 'she', 'told', 'him', 'that', ',', 'but', 'she', 'could', 'not', 'possibly', 'know', 'that', 'his', 'insides', 'were', 'suddenly', 'dancing', 'the', 'conga', '.']
+2
+['the', 'sky', 'was', 'so', 'dark', 'and', 'the', 'windows', 'so', 'steamy', 'that', 'the', 'lanterns', 'were', 'lit', 'by', 'midday', '.']
+3
+['familiar', 'flutterings', 'of', 'panic', 'were', 'starting', 'to', 'disturb', 'harry', 'now', ',', 'and', 'he', 'was', 'finding', 'it', 'difficult', 'to', 'concentrate', 'in', 'class', 'again', '.']
+4
+['“', 'i', 'couldn', '’', 't', 'help', 'overhearing', 'what', 'you', 'and', 'malfoy', 'were', 'saying', '—', '”', '“', 'bet', 'you', 'could', ',', '”', 'ron', 'muttered', '.']
+5
+['as', 'they', 'walked', 'out', 'onto', 'the', 'pitch', ',', 'a', 'roar', 'of', 'noise', 'greeted', 'them', ';', 'mainly', 'cheers', ',', 'because', 'ravenclaw', 'and', 'hufflepuff', 'were', 'anxious', 'to', 'see', 'slytherin', 'beaten', ',', 'but', 'the', 'slytherins', 'in', 'the', 'crowd', 'made', 'their', 'boos', 'and', 'hisses', 'heard', ',', 'too', '.']
+6
+['i', 'must', 'ask', 'you', ',', 'therefore', ',', 'to', 'move', 'quickly', 'and', 'calmly', ',', 'and', 'do', 'as', 'your', 'prefects', '—', '”', 'but', 'her', 'final', 'words', 'were', 'drowned', 'as', 'a', 'different', 'voice', 'echoed', 'throughout', 'the', 'hall', '.']
+7
+['he', 'had', 'never', 'seen', 'a', 'wizard', 'work', 'things', 'out', 'like', 'this', ',', 'simply', 'by', 'looking', 'and', 'touching', ';', 'but', 'harry', 'had', 'long', 'since', 'learned', 'that', 'bangs', 'and', 'smoke', 'were', 'more', 'often', 'the', 'marks', 'of', 'ineptitude', 'than', 'expertise', '.']
+8
+['the', 'potion', 'within', 'was', 'splashing', 'about', 'merrily', ';', 'it', 'was', 'the', 'color', 'of', 'molten', 'gold', ',', 'and', 'large', 'drops', 'were', 'leaping', 'like', 'goldfish', 'above', 'the', 'surface', ',', 'though', 'not', 'a', 'particle', 'had', 'spilled', '.']
+9
+['sure', ',', 'the', 'hufflepuff', 'chasers', 'were', 'giving', 'him', 'decent', 'competition', ',', 'but', 'he', 'was', 'considering', 'whether', 'to', 'let', 'a', 'few', 'goals', 'pass', ',', 'maybe', 'just', 'to', 'rile', 'up', 'potter', 'or', 'mar', 'gryffindor', '’', 's', 'reputation', ',', 'he', 'didn', '’', 't', 'know', '.']
+10
+['unheard', 'by', 'any', 'of', 'them', 'in', 'the', 'muffling', 'snow', ',', 'malfoy', ',', 'crabbe', ',', 'and', 'goyle', 'were', 'walking', 'along', 'right', 'behind', 'them', '.']
+11
+['it', '’', 's', 'the', 'azkaban', 'guards', 'who', '’', 'll', 'get', 'him', 'back', ',', 'you', 'mark', 'my', 'words.', '”', 'at', 'that', 'moment', 'mrs.', 'weasley', 'entered', 'the', 'bar', ',', 'laden', 'with', 'shopping', 'bags', 'and', 'followed', 'by', 'the', 'twins', ',', 'fred', 'and', 'george', ',', 'who', 'were', 'about', 'to', 'start', 'their', 'fifth', 'year', 'at', 'hogwarts', ';', 'the', 'newly', 'elected', 'head', 'boy', ',', 'percy', ';', 'and', 'the', 'weasleys', '’', 'youngest', 'child', 'and', 'only', 'girl', ',', 'ginny', '.']
+12
+['there', 'they', 'all', 'were', ',', 'talking', 'about', 'homework', 'and', 'quidditch', 'and', 'who', 'knew', 'what', 'other', 'rubbish', ',', 'and', 'outside', 'these', 'walls', 'ten', 'more', 'death', 'eaters', 'had', 'swollen', 'voldemort', '’', 's', 'ranks', '.']
+13
+['terrible', 'though', 'it', 'was', 'to', 'hear', 'his', 'parents', '’', 'last', 'moments', 'replayed', 'inside', 'his', 'head', ',', 'these', 'were', 'the', 'only', 'times', 'harry', 'had', 'heard', 'their', 'voices', 'since', 'he', 'was', 'a', 'very', 'small', 'child', '.']
+14
+['the', 'gryffindors', 'around', 'them', 'were', 'so', 'miserable', ',', 'and', 'felt', 'so', 'sorry', 'for', 'the', 'weasleys', ',', 'that', 'nobody', 'tried', 'to', 'stop', 'them', 'as', 'they', 'got', 'up', ',', 'crossed', 'the', 'room', ',', 'and', 'left', 'through', 'the', 'portrait', 'hole', '.']
+15
+['harry', 'could', 'see', 'madam', 'pomfrey', 'fussing', 'over', 'hermione', ',', 'krum', ',', 'cedric', ',', 'and', 'cho', ',', 'all', 'of', 'whom', 'were', 'wrapped', 'in', 'thick', 'blankets', '.']
+16
+['“', 'harry', ',', '”', 'she', 'said', ',', '“', 'i', 'would', 'like', 'to', 'know', 'what', 'you', 'and', 'professor', 'dumbledore', 'were', 'doing', 'this', 'evening', 'when', 'you', 'left', 'the', 'school.', '”', '“', 'i', 'can', '’', 't', 'tell', 'you', 'that', ',', 'professor', ',', '”', 'said', 'harry', '.']
+17
+['but', 'now', 'the', 'doors', 'were', 'slamming', 'all', 'along', 'the', 'scarlet', 'train', ',', 'and', 'the', 'blurred', 'outlines', 'of', 'parents', 'were', 'swarming', 'forward', 'for', 'final', 'kisses', ',', 'last-minute', 'reminders', '.']
+18
+['“', 'then', 'we', '’', 'll', 'be', 'able', 'to', 'revive', 'those', 'poor', 'people', 'in', 'the', 'hospital', 'wing.', '”', 'the', 'second', 'years', 'were', 'given', 'something', 'new', 'to', 'think', 'about', 'during', 'their', 'easter', 'holidays', '.']
+19
+['harry', 'looked', 'around', ';', 'the', 'dungeon', 'was', 'dissolving', 'as', 'though', 'it', 'were', 'made', 'of', 'smoke', ';', 'everything', 'was', 'fading', ';', 'he', 'could', 'see', 'only', 'his', 'own', 'body', '—', 'all', 'else', 'was', 'swirling', 'darkness', '.']
+20
+['he', 'had', 'made', 'himself', 'a', 'black', 'armband', 'out', 'of', 'what', 'looked', 'like', 'a', 'rag', 'dipped', 'in', 'boot', 'polish', ',', 'and', 'his', 'eyes', 'were', 'puffy', ',', 'red', ',', 'and', 'swollen', '.']
+21
+['malfoy', ',', 'crabbe', ',', 'and', 'goyle', 'had', 'vanished', 'from', 'view', ':', 'harry', ',', 'ron', ',', 'and', 'hermione', 'stopped', 'dead', ';', 'the', 'fiery', 'monsters', 'were', 'circling', 'them', ',', 'drawing', 'closer', 'and', 'closer', ',', 'claws', 'and', 'horns', 'and', 'tails', 'lashed', ',', 'and', 'the', 'heat', 'was', 'solid', 'as', 'a', 'wall', 'around', 'them', '.']
+22
+['.', '”', 'hermione', 'returned', 'to', 'the', 'table', 'where', 'harry', 'and', 'ron', 'were', 'sitting', 'staring', 'at', 'their', 'schoolbags', 'as', 'though', 'hoping', 'their', 'homework', 'might', 'spring', 'out', 'of', 'it', 'and', 'start', 'doing', 'itself', '.']
+23
+['bill', 'and', 'fleur', 'were', 'standing', 'at', 'the', 'foot', 'of', 'the', 'stairs', '.']
+24
+['faintly', 'scribed', 'into', 'the', 'tree', 'were', 'the', 'letters', ',', 'g.g', ',', 'h.h', ',', 'r.r', ',', 'and', 's.s.', '“', 'the', 'founders', ',', '”', 'snape', 'breathed', '.']
+25
+['they', 'too', 'were', 'wearing', 'those', 'silver', 'crown-shaped', 'badges', '.']
+26
+['“', 'no', 'idea', 'where', 'he', 'is', ',', 'i', 'suppose', '?', '”', '“', 'none', 'at', 'all', ',', '”', 'said', 'umbridge', ',', 'shooting', 'a', 'malevolent', 'look', 'at', 'harry', ',', 'ron', ',', 'and', 'hermione', ',', 'who', 'were', 'now', 'dawdling', 'around', 'the', 'foot', 'of', 'the', 'stairs', 'as', 'ron', 'pretended', 'to', 'do', 'up', 'his', 'shoelace', '.']
+27
+['“', 'if', 'they', 'really', 'were', 'death', 'eaters', ',', 'they', 'worked', 'very', 'hard', 'to', 'keep', 'out', 'of', 'azkaban', 'when', 'you-know-who', 'lost', 'power', ',', 'and', 'told', 'all', 'sorts', 'of', 'lies', 'about', 'him', 'forcing', 'them', 'to', 'kill', 'and', 'torture', 'people', '.']
+28
+['crabbe', 'and', 'goyle', 'were', 'standing', 'behind', 'him', ',', 'shoulder', 'to', 'shoulder', ',', 'wands', 'pointing', 'right', 'at', 'harry', '.']
+29
+['soon', 'they', 'could', 'no', 'longer', 'see', 'the', 'walls', 'of', 'the', 'cavern', ';', 'they', 'might', 'have', 'been', 'at', 'sea', 'except', 'that', 'there', 'were', 'no', 'waves', '.']
+30
+['it', 'was', 'a', 'huge', 'effort', 'now', 'to', 'close', 'down', 'the', 'visions', 'that', 'were', 'forcing', 'themselves', 'upon', 'him', ',', 'but', 'he', 'knew', 'that', 'he', 'would', 'have', 'to', 'resist', 'only', 'a', 'little', 'longer', '.']
+31
+['the', 'other', 'ministry', 'wizards', 'were', 'all', 'staring', 'at', 'mr.', 'crouch', '.']
+32
+['the', 'only', 'light', 'now', 'came', 'from', 'the', 'silvery', 'ghosts', ',', 'who', 'were', 'drifting', 'about', 'talking', 'seriously', 'to', 'the', 'prefects', ',', 'and', 'the', 'enchanted', 'ceiling', ',', 'which', ',', 'like', 'the', 'sky', 'outside', ',', 'was', 'scattered', 'with', 'stars', '.']
+33
+['“', 'marvolo', ',', 'his', 'son', ',', 'morfin', ',', 'and', 'his', 'daughter', ',', 'merope', ',', 'were', 'the', 'last', 'of', 'the', 'gaunts', ',', 'a', 'very', 'ancient', 'wizarding', 'family', 'noted', 'for', 'a', 'vein', 'of', 'instability', 'and', 'violence', 'that', 'flourished', 'through', 'the', 'generations', 'due', 'to', 'their', 'habit', 'of', 'marrying', 'their', 'own', 'cousins', '.']
+34
+['“', 'tell', 'us', 'what', 'happened', 'after', 'we', 'left', ',', 'we', 'haven', '’', 't', 'heard', 'a', 'thing', 'since', 'ron', '’', 's', 'dad', 'told', 'us', 'the', 'family', 'were', 'safe.', '”', '“', 'well', ',', 'kingsley', 'saved', 'us', ',', '”', 'said', 'lupin', '.']
+35
+['as', 'if', 'this', 'were', 'not', 'enough', ',', 'the', 'daily', 'prophet', 'has', 'now', 'unearthed', 'evidence', 'that', 'hagrid', 'is', 'not', '—', 'as', 'he', 'has', 'always', 'pretended', '—', 'a', 'pure-blood', 'wizard', '.']
+36
+['and', 'then', ',', 'suddenly', ',', 'the', 'sparks', 'emanating', 'from', 'the', 'cauldron', 'were', 'extinguished', '.']
+37
+['harry', 'took', 'a', 'deep', 'breath', 'and', 'continued', 'calmly', ',', 'though', 'his', 'insides', 'were', 'boiling', ',', '“', 'yeah', ',', 'ghosts', 'are', 'transparent', ',', 'but', 'inferi', 'are', 'dead', 'bodies', ',', 'aren', '’', 't', 'they', '?']
+38
+['the', 'colorful', ',', 'glittering', 'window', 'displays', 'of', 'spellbooks', ',', 'potion', 'ingredients', ',', 'and', 'cauldrons', 'were', 'lost', 'to', 'view', ',', 'hidden', 'behind', 'the', 'large', 'ministry', 'of', 'magic', 'posters', 'that', 'had', 'been', 'pasted', 'over', 'them', '.']
+39
+['here', 'and', 'there', ',', 'people', 'were', 'sitting', 'on', 'carved', 'benches', '.']
+40
+['beside', 'him', 'were', 'a', 'couple', 'of', 'expensive', 'looking', 'trunks', ',', 'and', 'his', 'grey', 'eagle-owl', 'perched', 'atop', 'his', 'broomstick', '.']
+41
+['both', 'of', 'them', 'were', 'thickset', 'and', 'looked', 'extremely', 'mean', '.']
+42
+['the', 'people', 'below', 'were', 'crowded', 'around', 'the', 'foot', 'of', 'the', 'stairs', ',', 'gazing', 'intently', 'up', 'at', 'him', ',', 'some', 'craning', 'their', 'heads', 'for', 'a', 'better', 'look', '.']
+43
+['“', 'your', 'elf', '’', 's', 'scared', 'of', 'heights', ',', 'and', 'those', 'wizards', 'in', 'masks', 'were', 'levitating', 'people', '!']
+44
+['if', 'fudge', 'an', '’', 'dumbledore', 'catch', 'yeh', 'out', 'without', 'permission', ',', 'harry', ',', 'yeh', '’', 'll', 'be', 'in', 'big', 'trouble.', '”', 'silent', 'tears', 'were', 'now', 'streaming', 'down', 'hermione', '’', 's', 'face', ',', 'but', 'she', 'hid', 'them', 'from', 'hagrid', ',', 'bustling', 'around', 'making', 'tea', '.']
+45
+['“', 'brilliant', 'catch', ',', 'as', 'usual.', '”', 'harry', 'noticed', 'malfoy', 'stiffen', 'against', 'ginny', 'when', 'she', '’', 'd', 'said', 'this', ',', 'but', 'during', 'that', 'three', 'seconds', 'of', 'which', 'ginny', '’', 's', 'eyes', 'were', 'locked', 'with', 'his', 'own', ',', 'the', 'famous', 'boy-wizard', 'felt', 'as', 'though', 'he', 'didn', '’', 't', 'know', 'ginny', 'at', 'all', '.']
+46
+['harry', 'chose', 'a', 'seat', 'right', 'at', 'the', 'back', 'of', 'the', 'room', ',', 'feeling', 'as', 'though', 'he', 'were', 'sitting', 'in', 'a', 'very', 'bright', 'spotlight', ';', 'the', 'rest', 'of', 'the', 'class', 'kept', 'shooting', 'furtive', 'glances', 'at', 'him', ',', 'as', 'though', 'he', 'were', 'about', 'to', 'drop', 'dead', 'at', 'any', 'moment', '.']
+47
+['percy', '’', 's', 'eyes', ',', 'behind', 'his', 'horn-rimmed', 'glasses', ',', 'were', 'fixed', 'on', 'his', 'parchment', ',', 'a', 'quill', 'poised', 'in', 'his', 'hand', '.']
+48
+['harry', '’', 's', 'eyes', ',', 'however', ',', 'were', 'fixed', 'upon', 'the', 'ground', 'at', 'the', 'foot', 'of', 'the', 'tallest', 'tower', '.']
+49
+['there', 'were', 'no', 'seats', ';', 'instead', ',', 'half', 'a', 'dozen', 'brass', 'bedsteads', 'stood', 'beside', 'the', 'curtained', 'windows', '.']
+50
+['these', 'two', 'survivors', '–', 'godric', 'of', 'the', 'gryffindors', 'and', 'salazar', 'of', 'the', 'slytherins', '–', 'were', 'unable', 'to', 'exact', 'revenge', '.']
+51
+['however', ',', 'they', 'enjoyed', 'themselves', 'trying', 'to', 'make', 'hagrid', 'tell', 'them', 'what', 'the', 'tasks', 'in', 'the', 'tournament', 'were', 'going', 'to', 'be', ',', 'speculating', 'which', 'of', 'the', 'entrants', 'were', 'likely', 'to', 'be', 'selected', 'as', 'champions', ',', 'and', 'wondering', 'whether', 'fred', 'and', 'george', 'were', 'beardless', 'yet', '.']
+52
+['however', ',', 'the', 'training', 'sessions', 'were', 'getting', 'better', ',', 'or', 'at', 'least', 'drier', ',', 'and', 'the', 'evening', 'before', 'saturday', '’', 's', 'match', 'he', 'went', 'up', 'to', 'his', 'dormitory', 'to', 'drop', 'off', 'his', 'broomstick', 'feeling', 'gryffindor', '’', 's', 'chances', 'for', 'the', 'quidditch', 'cup', 'had', 'never', 'been', 'better', '.']
+53
+['“', 'what', '’', 's', 'he', 'avoiding', 'us', 'for', '?', '”', 'hermione', 'said', 'when', 'they', 'had', 'finally', 'given', 'up', 'and', 'were', 'walking', 'back', 'to', 'the', 'school', '.']
+54
+['harry', 'and', 'ron', ',', 'the', 'only', 'ones', 'left', 'in', 'their', 'dormitory', ',', 'were', 'woken', 'very', 'early', 'by', 'hermione', ',', 'who', 'burst', 'in', ',', 'fully', 'dressed', 'and', 'carrying', 'presents', 'for', 'them', 'both', '.']
+55
+['all', 'three', 'of', 'them', 'were', 'puffy-eyed', 'and', 'pale', 'because', 'they', 'had', 'been', 'talking', 'late', 'into', 'the', 'night', 'about', 'mr.', 'crouch', '.']
+56
+['when', 'the', 'patronuses', 'glided', 'out', 'of', 'the', 'dungeon', 'there', 'were', 'cries', 'of', 'shock', 'from', 'the', 'people', 'waiting', 'outside', '.']
+57
+['a', 'set', 'of', 'drums', ',', 'several', 'guitars', ',', 'a', 'lute', ',', 'a', 'cello', ',', 'and', 'some', 'bagpipes', 'were', 'set', 'upon', 'it', '.']
+58
+['they', '’', 'd', 'gotten', 'the', 'idea', 'from', 'malfoy', 'using', 'it', 'on', 'neville', ',', 'and', 'were', 'ready', 'to', 'use', 'it', 'on', 'snape', 'if', 'he', 'showed', 'any', 'sign', 'of', 'wanting', 'to', 'hurt', 'harry', '.']
+59
+['said', 'a', 'voice', 'in', 'his', 'head', '—', 'but', 'the', 'footsteps', 'were', 'thundering', 'up', 'the', 'stairs', 'and', 'harry', 'still', 'hadn', '’', 't', 'done', 'it', '.']
+60
+['“', 'maybe', 'they', '’', 'll', 'cover', 'up', '—', '”', 'the', 'sky', ',', 'the', 'smell', 'of', 'lake', 'water', ',', 'the', 'sound', 'of', 'ron', '’', 's', 'voice', 'were', 'extinguished', ':', 'pain', 'cleaved', 'harry', '’', 's', 'head', 'like', 'a', 'sword', 'stroke', '.']
+61
+['some', 'were', 'accompanied', 'by', 'families', ',', 'others', 'sat', 'alone', '.']
+62
+['ernie', 'macmillan', 'and', 'hannah', 'abbott', 'were', 'swapping', 'chocolate', 'frog', 'cards', 'at', 'a', 'nearby', 'table', ',', 'both', 'of', 'them', 'sporting', 'support', 'cedric', 'diggory', '!']
+63
+['his', 'next', 'few', 'lessons', 'were', 'just', 'as', 'interesting', 'as', 'the', 'first', '.']
+64
+['he', 'was', 'strangely', 'blurred', 'around', 'the', 'edges', ',', 'as', 'though', 'harry', 'were', 'looking', 'at', 'him', 'through', 'a', 'misted', 'window', '.']
+65
+['somebody', 'had', 'been', 'in', 'to', 'tidy', ';', 'the', 'windows', 'were', 'open', 'and', 'sun', 'was', 'pouring', 'inside', '.']
+66
+['“', 'i', 'know', 'viktor', 'said', 'it', 'was', 'grindelwald', '’', 's', 'mark', ',', 'but', 'it', 'was', 'definitely', 'on', 'that', 'old', 'grave', 'in', 'godric', '’', 's', 'hollow', ',', 'and', 'the', 'dates', 'on', 'the', 'headstone', 'were', 'long', 'before', 'grindelwald', 'came', 'along', '!']
+67
+['he', 'could', 'just', 'imagine', 'professor', 'mcgonagall', '’', 's', 'reaction', 'if', 'he', 'were', 'caught', 'trespassing', 'in', 'professor', 'umbridge', '’', 's', 'office', 'mere', 'hours', 'after', 'she', 'had', 'vouched', 'for', 'him', '.']
+68
+['the', 'coaches', 'were', 'no', 'longer', 'horseless', '.']
+69
+['oh', ',', 'great', 'now', 'it', 'sounds', 'like', 'me', 'and', 'malfoy', 'were', 'planning', 'to…', '“', 'i', 'ran', ',', 'you', 'stupid', 'girl', ',', '”', 'snape', 'said', 'coldly', '.']
+70
+['didn', '’', 't', 'i', 'tell', 'you', '?', '”', 'as', 'harry', 'emerged', 'into', 'the', 'room', 'beyond', 'the', 'passage', ',', 'there', 'were', 'several', 'screams', 'and', 'yells', ':', '“', 'harry', '!', '”', '“', 'it', '’', 's', 'potter', ',', 'it', '’', 's', 'potter', '!', '”', '“', 'ron', '!', '”', '“', 'hermione', '!', '”', 'he', 'had', 'a', 'confused', 'impression', 'of', 'colored', 'hangings', ',', 'of', 'lamps', 'and', 'many', 'faces', '.']
+71
+['loud', 'bangings', 'and', 'scrapings', 'were', 'coming', 'from', 'behind', 'the', 'dursleys', '’', 'boarded-up', 'fireplace', ',', 'which', 'had', 'a', 'fake', 'coal', 'fire', 'plugged', 'in', 'front', 'of', 'it', '.']
+72
+['lockhart', '’', 's', 'hands', 'were', 'pressed', 'over', 'his', 'eyes', '.']
+73
+['there', ',', 'in', 'full', 'view', 'of', 'the', 'whole', 'room', ',', 'stood', 'ron', 'wrapped', 'so', 'closely', 'around', 'lavender', 'brown', 'it', 'was', 'hard', 'to', 'tell', 'whose', 'hands', 'were', 'whose', '.']
+74
+['crabbe', 'and', 'goyle', 'were', 'standing', 'behind', 'him', '.']
+75
+['the', 'dursleys', 'were', 'cowering', 'against', 'the', 'wall', '.']
+76
+['hagrid', 'swerved', ',', 'but', 'the', 'death', 'eaters', 'were', 'keeping', 'up', 'with', 'the', 'bike', ';', 'more', 'curses', 'shot', 'after', 'them', ',', 'and', 'harry', 'had', 'to', 'sink', 'low', 'into', 'the', 'sidecar', 'to', 'avoid', 'them', '.']
+77
+['three', 'of', 'them', 'were', 'still', 'clutching', 'scarves', 'and', 'shawls', 'around', 'their', 'heads', '.']
+78
+['it', 'was', 'therefore', 'a', 'full', 'week', 'later', '—', 'once', 'they', 'had', 'surreptitiously', 'obtained', 'hairs', 'from', 'innocent', 'muggles', 'who', 'were', 'christmas', 'shopping', ',', 'and', 'had', 'practiced', 'apparating', 'and', 'disapparating', 'while', 'underneath', 'the', 'invisibility', 'cloak', 'together', '—', 'that', 'hermione', 'agreed', 'to', 'make', 'the', 'journey', '.']
+79
+['there', 'were', ',', 'however', ',', 'things', 'that', 'harry', 'needed', 'to', 'buy', '.']
+80
+['but', 'with', 'no', 'hagrid', 'visible', 'from', 'the', 'castle', 'windows', ',', 'striding', 'the', 'grounds', 'with', 'fang', 'at', 'his', 'heels', ',', 'the', 'scene', 'didn', '’', 't', 'look', 'right', 'to', 'harry', ';', 'no', 'better', ',', 'in', 'fact', ',', 'than', 'the', 'inside', 'of', 'the', 'castle', ',', 'where', 'things', 'were', 'so', 'horribly', 'wrong', '.']
+81
+['everlasting', 'icicles', 'had', 'been', 'attached', 'to', 'the', 'banisters', 'of', 'the', 'marble', 'staircase', ';', 'the', 'usual', 'twelve', 'christmas', 'trees', 'in', 'the', 'great', 'hall', 'were', 'bedecked', 'with', 'everything', 'from', 'luminous', 'holly', 'berries', 'to', 'real', ',', 'hooting', ',', 'golden', 'owls', ',', 'and', 'the', 'suits', 'of', 'armor', 'had', 'all', 'been', 'bewitched', 'to', 'sing', 'carols', 'whenever', 'anyone', 'passed', 'them', '.']
+82
+['dumbledore', 'knelt', 'before', 'him', ',', 'so', 'that', 'their', 'faces', 'were', 'level', '.']
+83
+['with', 'screams', 'of', 'pain', 'ron', ',', 'hermione', ',', 'and', 'the', 'two', 'goblins', 'were', 'knocked', 'aside', 'into', 'other', 'objects', ',', 'which', 'also', 'began', 'to', 'replicate', '.']
+84
+['expecto', '—', '”', 'but', 'the', 'classroom', 'and', 'the', 'dementor', 'were', 'dissolving', '.']
+85
+['it', 'was', 'fortunate', 'that', 'goyle', 'and', 'zabini', 'were', 'snarling', 'at', 'each', 'other', ',', 'drawing', 'all', 'eyes', 'onto', 'them', ',', 'for', 'harry', 'was', 'quite', 'sure', 'his', 'feet', 'and', 'ankles', 'had', 'been', 'revealed', 'as', 'the', 'cloak', 'had', 'flapped', 'around', 'them', ';', 'indeed', ',', 'for', 'one', 'horrible', 'moment', 'he', 'thought', 'he', 'saw', 'malfoy', '’', 's', 'eyes', 'follow', 'his', 'trainer', 'as', 'it', 'whipped', 'upward', 'out', 'of', 'sight', '.']
+86
+['and', 'hermione', 'and', 'that', 'ravenclaw', 'prefect', 'were', 'found', 'with', 'a', 'mirror', 'next', 'to', 'them', '.']
+87
+['many', 'people', 'were', 'staring', 'at', 'her', 'and', 'a', 'few', 'openly', 'laughing', 'and', 'pointing', ';', 'she', 'had', 'managed', 'to', 'procure', 'a', 'hat', 'shaped', 'like', 'a', 'life-size', 'lion', '’', 's', 'head', ',', 'which', 'was', 'perched', 'precariously', 'on', 'her', 'head', '.']
+88
+['the', 'wizengamot', 'were', 'filing', 'out', '.']
+89
+['harry', ',', 'ron', ',', 'hermione', ',', 'ginny', ',', 'woodley', ',', 'fred', 'and', 'george', ',', 'and', 'katie', 'bell', ',', 'were', 'the', 'first', 'out', 'of', 'the', 'castle', 'to', 'pelt', 'snowballs', 'at', 'each', 'other', '.']
+90
+['graceful', 'arched', 'windows', 'punctuated', 'the', 'walls', ',', 'which', 'were', 'hung', 'with', 'blue-and-bronze', 'silks', ':', 'by', 'day', ',', 'the', 'ravenclaws', 'would', 'have', 'a', 'spectacular', 'view', 'of', 'the', 'surrounding', 'mountains', '.']
+91
+['his', 'breathing', 'harsh', 'and', 'ragged', ',', 'he', 'raised', 'his', 'head', 'and', 'stared', 'in', 'disbelief', 'at', 'the', 'silver', 'hand', ',', 'now', 'attached', 'seamlessly', 'to', 'his', 'arm', ',', 'as', 'though', 'he', 'were', 'wearing', 'a', 'dazzling', 'glove', '.']
+92
+['then', 'he', 'realized', 'that', 'their', 'heads', 'were', 'hooded', 'and', 'their', 'faces', 'masked', '.']
+93
+['great', 'uncle', 'algie', 'was', 'so', 'pleased', 'he', 'bought', 'me', 'my', 'toad.', '”', 'on', 'harry', '’', 's', 'other', 'side', ',', 'percy', 'weasley', 'and', 'hermione', 'were', 'talking', 'about', 'lessons', '(', '“', 'i', 'do', 'hope', 'they', 'start', 'right', 'away', ',', 'there', '’', 's', 'so', 'much', 'to', 'learn', ',', 'i', '’', 'm', 'particularly', 'interested', 'in', 'transfiguration', ',', 'you', 'know', ',', 'turning', 'something', 'into', 'something', 'else', ',', 'of', 'course', ',', 'it', '’', 's', 'supposed', 'to', 'be', 'very', 'difficult', '—', '”', ';', '“', 'you', '’', 'll', 'be', 'starting', 'small', ',', 'just', 'matches', 'into', 'needles', 'and', 'that', 'sort', 'of', 'thing', '—', '”', ')', '.']
+94
+['“', 'then', 'you', 'just', 'buck', 'up', 'your', 'ideas', ',', 'young', 'man', ',', 'before', 'i', 'decide', 'you', '’', 're', 'too', 'immature', 'to', 'come', 'with', 'us', '!', '”', 'said', 'mrs.', 'weasley', 'angrily', ',', 'snatching', 'up', 'her', 'clock', ',', 'all', 'nine', 'hands', 'of', 'which', 'were', 'still', 'pointing', 'at', '“', 'mortal', 'peril', ',', '”', 'and', 'balancing', 'it', 'on', 'top', 'of', 'a', 'pile', 'of', 'just-laundered', 'towels', '.']
+95
+['the', 'old', 'woman', 'was', 'drooling', ',', 'her', 'eyes', 'were', 'rolling', ',', 'the', 'yellowing', 'skin', 'of', 'her', 'face', 'stretched', 'taut', 'as', 'she', 'screamed', ',', 'and', 'all', 'along', 'the', 'hall', 'behind', 'them', ',', 'the', 'other', 'portraits', 'awoke', 'and', 'began', 'to', 'yell', 'too', ',', 'so', 'that', 'harry', 'actually', 'screwed', 'up', 'his', 'eyes', 'at', 'the', 'noise', 'and', 'clapped', 'his', 'hands', 'over', 'his', 'ears', '.']
+96
+['“', 'how', '’', 'd', 'it', 'go', '?', '”', 'ginny', '’', 's', 'cheeks', 'were', 'flushed', 'and', 'her', 'hair', 'was', 'sticking', 'up', 'wildly', '.']
+97
+['and', 'i', 'pulled', 'out', 'my', 'wand', ',', 'and', 'he', 'pulled', 'out', 'his', ',', 'and', 'i', 'had', 'the', 'cruciatus', 'curse', 'used', 'on', 'me', 'by', 'my', 'brother', '’', 's', 'best', 'friend', '—', 'and', 'albus', 'was', 'trying', 'to', 'stop', 'him', ',', 'and', 'then', 'all', 'three', 'of', 'us', 'were', 'dueling', ',', 'and', 'the', 'flashing', 'lights', 'and', 'the', 'bangs', 'set', 'her', 'off', ',', 'she', 'couldn', '’', 't', 'stand', 'it', '—', '”', 'the', 'color', 'was', 'draining', 'from', 'aberforth', '’', 's', 'face', 'as', 'though', 'he', 'had', 'suffered', 'a', 'mortal', 'wound', '.']
+98
+['“', 'i', '’', 'd', 'try', 'putting', 'it', 'in', 'the', 'water', ',', 'if', 'i', 'were', 'you.', '”', 'harry', 'had', 'swallowed', 'a', 'considerable', 'amount', 'of', 'bubbles', 'in', 'shock', '.']
+99
+['expecto', 'patronum', '!', '”', 'the', 'screaming', 'inside', 'harry', '’', 's', 'head', 'had', 'started', 'again', '—', 'except', 'this', 'time', ',', 'it', 'sounded', 'as', 'though', 'it', 'were', 'coming', 'from', 'a', 'badly', 'tuned', 'radio', '—', 'softer', 'and', 'louder', 'and', 'softer', 'again', '—', 'and', 'he', 'could', 'still', 'see', 'the', 'dementor', '—', 'it', 'had', 'halted', '—', 'and', 'then', 'a', 'huge', ',', 'silver', 'shadow', 'came', 'bursting', 'out', 'of', 'the', 'end', 'of', 'harry', '’', 's', 'wand', ',', 'to', 'hover', 'between', 'him', 'and', 'the', 'dementor', ',', 'and', 'though', 'harry', '’', 's', 'legs', 'felt', 'like', 'water', ',', 'he', 'was', 'still', 'on', 'his', 'feet', '—', 'though', 'for', 'how', 'much', 'longer', ',', 'he', 'wasn', '’', 't', 'sure', '—', '“', 'riddikulus', '!', '”', 'roared', 'lupin', ',', 'springing', 'forward', '.']
+100
+['charlie', 'was', 'built', 'like', 'the', 'twins', ',', 'shorter', 'and', 'stockier', 'than', 'percy', 'and', 'ron', ',', 'who', 'were', 'both', 'long', 'and', 'lanky', '.']
+101
+['the', 'lake', 'froze', 'solid', 'and', 'the', 'weasley', 'twins', 'were', 'punished', 'for', 'bewitching', 'several', 'snowballs', 'so', 'that', 'they', 'followed', 'quirrell', 'around', ',', 'bouncing', 'off', 'the', 'back', 'of', 'his', 'turban', '.']
+102
+['“', 'all', 'the', 'judges', 'and', 'champions', ',', 'what', 'do', 'you', 'think', ',', 'rita', '?', '”', '“', 'er', '—', 'yes', ',', 'let', '’', 's', 'do', 'those', 'first', ',', '”', 'said', 'rita', 'skeeter', ',', 'whose', 'eyes', 'were', 'upon', 'harry', 'again', '.']
+103
+['fred', 'and', 'george', 'had', 'long', 'since', 'disappeared', 'into', 'the', 'darkness', 'with', 'a', 'pair', 'of', 'fleur', '’', 's', 'cousins', ';', 'charlie', ',', 'hagrid', ',', 'and', 'a', 'squat', 'wizard', 'in', 'a', 'purple', 'porkpie', 'hat', 'were', 'singing', '“', 'odo', 'the', 'hero', '”', 'in', 'a', 'corner', '.']
+104
+['on', 'every', 'side', 'broomsticks', 'were', 'leaping', 'into', 'hands', ';', 'hermione', 'had', 'already', 'been', 'helped', 'up', 'onto', 'a', 'great', 'black', 'thestral', 'by', 'kingsley', ',', 'fleur', 'onto', 'the', 'other', 'by', 'bill', '.']
+105
+['a', 'kind', 'of', 'numbness', 'and', 'a', 'sense', 'of', 'complete', 'unreality', 'were', 'upon', 'him', ',', 'but', 'he', 'did', 'not', 'care', ';', 'he', 'was', 'even', 'glad', 'of', 'it', '.']
+106
+['most', 'of', 'his', 'teeth', 'were', 'gone', '.']
+107
+['his', 'breath', 'came', 'slow', 'and', 'deep', ',', 'and', 'his', 'mouth', 'and', 'throat', 'were', 'completely', 'dry', ',', 'but', 'so', 'were', 'his', 'eyes', '.']
+108
+['the', 'room', 'at', 'the', 'top', 'of', 'the', 'house', 'where', 'ron', 'slept', 'looked', 'much', 'as', 'it', 'had', 'the', 'last', 'time', 'that', 'harry', 'had', 'come', 'to', 'stay', ':', 'the', 'same', 'posters', 'of', 'ron', '’', 's', 'favorite', 'quidditch', 'team', ',', 'the', 'chudley', 'cannons', ',', 'were', 'whirling', 'and', 'waving', 'on', 'the', 'walls', 'and', 'sloping', 'ceiling', ',', 'and', 'the', 'fish', 'tank', 'on', 'the', 'windowsill', ',', 'which', 'had', 'previously', 'held', 'frog', 'spawn', ',', 'now', 'contained', 'one', 'extremely', 'large', 'frog', '.']
+109
+['the', 'man', '’', 's', 'scowling', ',', 'slightly', 'brutish', 'face', 'was', 'somehow', 'at', 'odds', 'with', 'his', 'magnificent', ',', 'sweeping', 'robes', ',', 'which', 'were', 'embroidered', 'with', 'much', 'gold', 'thread', '.']
+110
+['ginny', 'and', 'demelza', 'were', 'already', 'wearing', 'their', 'quidditch', 'robes', 'and', 'waiting', 'in', 'the', 'changing', 'room', '.']
+111
+['as', 'long', 'as', 'the', 'secret-keeper', 'refused', 'to', 'speak', ',', 'you-know-who', 'could', 'search', 'the', 'village', 'where', 'lily', 'and', 'james', 'were', 'staying', 'for', 'years', 'and', 'never', 'find', 'them', ',', 'not', 'even', 'if', 'he', 'had', 'his', 'nose', 'pressed', 'against', 'their', 'sitting-room', 'window', '!', '”', '“', 'so', 'black', 'was', 'the', 'potters', '’', 'secret-keeper', '?', '”', 'whispered', 'madam', 'rosmerta', '.']
+112
+['sirius', ',', 'at', 'least', ',', 'seemed', 'to', 'understand', 'how', 'harry', 'was', 'feeling', ';', 'admittedly', 'his', 'letters', 'were', 'just', 'as', 'empty', 'of', 'proper', 'news', 'as', 'ron', 'and', 'hermione', '’', 's', ',', 'but', 'at', 'least', 'they', 'contained', 'words', 'of', 'caution', 'and', 'consolation', 'instead', 'of', 'tantalizing', 'hints', ':', '“', 'i', 'know', 'this', 'must', 'be', 'frustrating', 'for', 'you', '.']
+113
+['as', 'griphook', 'had', 'already', 'warned', 'them', ',', 'the', 'liveried', 'goblins', 'who', 'usually', 'flanked', 'the', 'entrance', 'had', 'been', 'replaced', 'by', 'two', 'wizards', ',', 'both', 'of', 'whom', 'were', 'clutching', 'long', 'thin', 'golden', 'rods', '.']
+114
+['the', 'instant', 'they', 'arrived', ',', 'hermione', 'dropped', 'harry', '’', 's', 'hand', 'and', 'walked', 'away', 'from', 'him', ',', 'finally', 'sitting', 'down', 'on', 'a', 'large', 'rock', ',', 'her', 'face', 'on', 'her', 'knees', ',', 'shaking', 'with', 'what', 'he', 'knew', 'were', 'sobs', '.']
+115
+['ron', 'and', 'percy', 'were', 'next', 'door', 'to', 'harry', '.']
+116
+['ron', 'and', 'hermione', 'had', 'lit', 'their', 'wands', 'too', ',', 'and', 'were', 'now', 'examining', 'the', 'piles', 'of', 'objects', 'surrounding', 'them', '.']
+117
+['for', 'the', 'first', 'time', 'in', 'months', ',', 'he', 'perused', 'the', 'old', 'pictures', 'of', 'his', 'parents', ',', 'smiling', 'and', 'waving', 'up', 'at', 'him', 'from', 'the', 'images', ',', 'which', 'were', 'all', 'he', 'had', 'left', 'of', 'them', 'now', '.']
+118
+['seekers', 'were', 'usually', 'light', 'and', 'speedy', ',', 'but', 'diggory', '’', 's', 'weight', 'would', 'be', 'an', 'advantage', 'in', 'this', 'weather', 'because', 'he', 'was', 'less', 'likely', 'to', 'be', 'blown', 'off', 'course', '.']
+119
+['the', 'students', 'who', 'had', 'already', 'arrived', 'were', 'sitting', 'on', 'the', 'earthy', 'floor', 'with', 'their', 'backs', 'resting', 'against', 'tree', 'trunks', 'or', 'boulders', ',', 'arms', 'wrapped', 'around', 'their', 'knees', 'or', 'folded', 'tightly', 'across', 'their', 'chests', ',', 'looking', 'rather', 'nervous', '.']
+120
+['quite', 'a', 'few', 'people', 'were', 'still', 'in', 'there', '.']
+121
+['harry', 'wished', 'his', 'scar', 'would', 'burn', 'and', 'show', 'him', 'voldemort', '’', 's', 'thoughts', ',', 'because', 'for', 'the', 'first', 'time', 'ever', ',', 'he', 'and', 'voldemort', 'were', 'united', 'in', 'wanting', 'the', 'very', 'same', 'thing', '.']
+122
+['“', 'your', 'visions', 'were', 'not', 'visions', '.']
+123
+['the', 'figures', 'of', 'tonks', ',', 'lupin', ',', 'moody', ',', 'and', 'mr.', 'and', 'mrs.', 'weasley', 'shrank', 'rapidly', 'but', 'the', 'black', 'dog', 'was', 'bounding', 'alongside', 'the', 'window', ',', 'wagging', 'its', 'tail', ';', 'blurred', 'people', 'on', 'the', 'platform', 'were', 'laughing', 'to', 'see', 'it', 'chasing', 'the', 'train', ',', 'and', 'then', 'they', 'turned', 'the', 'corner', ',', 'and', 'sirius', 'was', 'gone', '.']
+124
+['but', 'there', 'were', 'no', 'lights', 'in', 'the', 'castle', 'windows', ',', 'and', 'he', 'could', 'conceal', 'himself', '.']
+125
+['he', 'and', 'ron', 'followed', 'hermione', 'down', 'a', 'flight', 'of', 'stone', 'steps', ',', 'but', 'instead', 'of', 'ending', 'up', 'in', 'a', 'gloomy', 'underground', 'passage', 'like', 'the', 'one', 'that', 'led', 'to', 'snape', '’', 's', 'dungeon', ',', 'they', 'found', 'themselves', 'in', 'a', 'broad', 'stone', 'corridor', ',', 'brightly', 'lit', 'with', 'torches', ',', 'and', 'decorated', 'with', 'cheerful', 'paintings', 'that', 'were', 'mainly', 'of', 'food', '.']
+126
+['he', 'was', 'through', 'it', 'at', 'last', ',', 'inside', 'a', 'black-walled', ',', 'black-floored', 'circular', 'room', 'lit', 'with', 'blue-flamed', 'candles', ',', 'and', 'there', 'were', 'more', 'doors', 'all', 'around', 'him', '—', 'he', 'needed', 'to', 'go', 'on', '—', 'but', 'which', 'door', 'ought', 'he', 'to', 'take', '—', '?']
+127
+['tears', 'were', 'pouring', 'from', 'her', 'eyes', 'into', 'her', 'hair', '.']
+128
+['and', 'now', 'it', 'was', 'as', 'if', 'draco', 'and', 'ginny', 'were', 'making', 'up', 'for', 'the', 'friendliness', 'they', '’', 'd', 'experienced', 'during', 'christmas', ',', 'by', 'avoiding', 'each', 'other', 'as', 'much', 'as', 'possible', ',', 'and', 'barely', 'speaking', 'when', 'they', 'held', 'their', 'morning', 'duelling', 'sessions', '.']
+129
+['his', 'eyes', 'were', 'clenched', 'shut', 'as', 'he', 'clawed', 'at', 'his', 'head', ',', 'awful', 'noises', 'of', 'pain', 'convulsing', 'from', 'his', 'throat', '.']
+130
+['“', 'have', 'you', 'seen', 'what', 'they', '’', 're', 'sitting', 'on', '?', '”', 'harry', 'looked', 'more', 'closely', 'and', 'realized', 'that', 'what', 'he', 'had', 'thought', 'were', 'decoratively', 'carved', 'thrones', 'were', 'actually', 'mounds', 'of', 'carved', 'humans', ':', 'hundreds', 'and', 'hundreds', 'of', 'naked', 'bodies', ',', 'men', ',', 'women', ',', 'and', 'children', ',', 'all', 'with', 'rather', 'stupid', ',', 'ugly', 'faces', ',', 'twisted', 'and', 'pressed', 'together', 'to', 'support', 'the', 'weight', 'of', 'the', 'handsomely', 'robed', 'wizards', '.']
+131
+['nowadays', ',', 'however', ',', 'his', 'scar', 'hardly', 'ever', 'stopped', 'prickling', ',', 'and', 'he', 'often', 'felt', 'lurches', 'of', 'annoyance', 'or', 'cheerfulness', 'that', 'were', 'unrelated', 'to', 'what', 'was', 'happening', 'to', 'him', 'at', 'the', 'time', ',', 'which', 'were', 'always', 'accompanied', 'by', 'a', 'particularly', 'painful', 'twinge', 'from', 'his', 'scar', '.']
+132
+['the', 'quill', 'whizzed', 'across', 'the', 'parchment', 'between', 'them', ',', 'back', 'and', 'forward', 'as', 'though', 'it', 'were', 'skating', '.']
+133
+['ten', 'minutes', 'later', 'they', 'had', 'wrenched', 'their', 'way', 'through', 'the', 'boarded-up', 'doors', 'and', 'were', 'in', 'the', 'car', ',', 'speeding', 'toward', 'the', 'highway', '.']
+134
+['the', 'creature', ',', 'whose', 'legs', 'were', 'so', 'short', 'they', 'stuck', 'out', 'in', 'front', 'of', 'it', 'on', 'the', 'chair', ',', 'was', 'wearing', 'a', 'tea', 'towel', 'draped', 'like', 'a', 'toga', ',', 'and', 'it', 'had', 'its', 'face', 'hidden', 'in', 'its', 'hands', '.']
+135
+['then', 'he', 'crept', 'back', 'under', 'the', 'cover', 'of', 'the', 'trees', 'and', 'started', 'to', 'edge', 'forward', 'toward', 'the', 'place', 'where', 'the', 'dragons', 'were', '.']
+136
+['each', 'had', 'replied', 'promptly', 'that', 'such', 'a', 'case', 'was', 'not', 'possible', 'to', 'happen', 'in', 'the', 'first', 'place', 'and', 'were', 'quite', 'curious', 'as', 'to', 'why', 'dumbledore', 'would', 'enquire', 'such', 'a', 'thing', '.']
+137
+['“', 'i', 'heard', 'banging', 'and', 'wailing', '—', '”', '“', 'yes', ',', 'professor', ',', 'that', 'was', 'the', 'egg', '—', '”', '“', '—', 'i', 'was', 'coming', 'to', 'investigate', '—', '”', '“', '—', 'peeves', 'threw', 'it', ',', 'professor', '—', '”', '“', '—', 'and', 'when', 'i', 'passed', 'my', 'office', ',', 'i', 'saw', 'that', 'the', 'torches', 'were', 'lit', 'and', 'a', 'cupboard', 'door', 'was', 'ajar', '!']
+138
+['the', 'fifth', 'group', 'were', 'hufflepuffs', '.']
+139
+['his', 'skin', 'appeared', 'yellowish', 'and', 'waxy', 'in', 'the', 'firelight', ',', 'and', 'his', 'eyes', 'were', 'sunken', 'and', 'shadowed', '.']
+140
+['her', 'hair', 'was', 'sticking', 'up', 'on', 'end', ',', 'her', 'glasses', 'were', 'lopsided', 'so', 'that', 'one', 'eye', 'was', 'magnified', 'more', 'than', 'the', 'other', ';', 'her', 'innumerable', 'shawls', 'and', 'scarves', 'were', 'trailing', 'haphazardly', 'from', 'her', 'shoulders', ',', 'giving', 'the', 'impression', 'that', 'she', 'was', 'falling', 'apart', 'at', 'the', 'seams', '.']
+141
+['not', 'only', 'were', 'there', 'a', 'dozen', 'frost-covered', 'christmas', 'trees', 'and', 'thick', 'streamers', 'of', 'holly', 'and', 'mistletoe', 'crisscrossing', 'the', 'ceiling', ',', 'but', 'enchanted', 'snow', 'was', 'falling', ',', 'warm', 'and', 'dry', ',', 'from', 'the', 'ceiling', '.']
+142
+['“', 'petrificus', 'totalus', '!', '”', 'harry', 'bellowed', 'again', ',', 'backing', 'away', 'as', 'he', 'swiped', 'his', 'wand', 'through', 'the', 'air', ';', 'six', 'or', 'seven', 'of', 'them', 'crumpled', ',', 'but', 'more', 'were', 'coming', 'toward', 'him', '.']
+143
+['he', 'was', 'carrying', 'this.', '”', 'snape', 'pointed', 'at', 'the', 'parchment', ',', 'on', 'which', 'the', 'words', 'of', 'messrs.', 'moony', ',', 'wormtail', ',', 'padfoot', ',', 'and', 'prongs', 'were', 'still', 'shining', '.']
+144
+['his', 'face', 'was', 'covered', 'in', 'darkness', 'and', 'all', 'she', 'could', 'make', 'out', 'were', 'his', 'flashing', 'eyes', 'glaring', 'at', 'her', '.']
+145
+['several', 'seats', 'down', 'from', 'them', ',', 'fred', 'and', 'george', 'were', 'leaning', 'forward', ',', 'staring', 'at', 'dumbledore', 'with', 'great', 'concentration', '.']
+146
+['the', 'letters', 'from', 'the', 'ministry', ',', 'mr.', 'weasley', ',', 'and', 'sirius', 'were', 'crushed', 'in', 'his', 'left', 'hand', '.']
+147
+['professor', 'trelawney', 'had', 'gone', 'rigid', 'in', 'her', 'armchair', ';', 'her', 'eyes', 'were', 'unfocused', 'and', 'her', 'mouth', 'sagging', '.']
+148
+['harry', 'tried', 'to', 'argue', 'back', 'but', 'his', 'words', 'were', 'drowned', 'by', 'a', 'long', ',', 'loud', 'belch', 'from', 'the', 'dursleys', '’', 'son', ',', 'dudley', '.']
+149
+['he', 'didn', '’', 't', 'have', 'to', 'know', 'how', 'many', 'galleons', 'there', 'were', 'to', 'a', 'pound', 'to', 'know', 'that', 'he', 'was', 'holding', 'more', 'money', 'than', 'he', '’', 'd', 'had', 'in', 'his', 'whole', 'life', '—', 'more', 'money', 'than', 'even', 'dudley', 'had', 'ever', 'had', '.']
+150
+['unnoticed', 'by', 'any', 'of', 'the', 'people', 'around', 'his', 'bed', ',', 'all', 'of', 'whom', 'were', 'staring', 'at', 'the', 'door', 'as', 'bill', 'pulled', 'back', 'the', 'screens', ',', 'harry', 'sat', 'up', 'and', 'put', 'his', 'glasses', 'back', 'on', '.']
+151
+['they', 'all', 'drank', ',', 'and', 'for', 'a', 'while', 'the', 'only', 'sounds', 'were', 'those', 'of', 'the', 'crackling', 'of', 'the', 'kitchen', 'fire', 'and', 'the', 'soft', 'thud', 'of', 'their', 'bottles', 'on', 'the', 'table', '.']
+152
+['but', 'there', 'were', 'around', 'a', 'dozen', 'doors', 'here', '.']
+153
+['the', 'aurors', 'were', 'given', 'new', 'powers', '—', 'powers', 'to', 'kill', 'rather', 'than', 'capture', ',', 'for', 'instance', '.']
+154
+['she', 'was', 'looking', ',', 'not', 'at', 'the', 'spider', ',', 'but', 'at', 'neville', ',', 'and', 'harry', ',', 'following', 'her', 'gaze', ',', 'saw', 'that', 'neville', '’', 's', 'hands', 'were', 'clenched', 'upon', 'the', 'desk', 'in', 'front', 'of', 'him', ',', 'his', 'knuckles', 'white', ',', 'his', 'eyes', 'wide', 'and', 'horrified', '.']
+155
+['stupefy', '!', '”', 'but', 'it', 'was', 'no', 'use', '—', 'the', 'spider', 'was', 'either', 'so', 'large', ',', 'or', 'so', 'magical', ',', 'that', 'the', 'spells', 'were', 'doing', 'no', 'more', 'than', 'aggravating', 'it', '.']
+156
+['but', 'then', 'a', 'lot', 'of', 'people', 'who', 'were', 'against', 'the', 'dark', 'side', '.']
+157
+['i', '’', 'm', 'not', 'worth', 'that', '!', '”', 'chapter', 'seven', 'the', 'boggart', 'in', 'the', 'wardrobe', 'malfoy', 'didn', '’', 't', 'reappear', 'in', 'classes', 'until', 'late', 'on', 'thursday', 'morning', ',', 'when', 'the', 'slytherins', 'and', 'gryffindors', 'were', 'halfway', 'through', 'double', 'potions', '.']
+158
+['veela', 'were', 'women', '.']
+159
+['the', 'two', 'giants', 'crashed', 'along', 'behind', 'the', 'death', 'eaters', ';', 'harry', 'could', 'hear', 'trees', 'creaking', 'and', 'falling', 'as', 'they', 'passed', ';', 'they', 'made', 'so', 'much', 'din', 'that', 'birds', 'rose', 'shrieking', 'into', 'the', 'sky', ',', 'and', 'even', 'the', 'jeers', 'of', 'the', 'death', 'eaters', 'were', 'drowned', '.']
+160
+['some', 'people', 'were', 'singing', ',', 'though', 'harry', 'could', 'not', 'make', 'out', 'the', 'words', '.']
+161
+['there', 'were', 'screams', 'from', 'the', 'dining', 'room', 'and', 'uncle', 'vernon', 'burst', 'into', 'the', 'kitchen', 'to', 'find', 'harry', ',', 'rigid', 'with', 'shock', ',', 'covered', 'from', 'head', 'to', 'foot', 'in', 'aunt', 'petunia', '’', 's', 'pudding', '.']
+162
+['gone', 'were', 'the', 'tapered', 'precise', 'fingers', ',', 'made', 'steady', 'from', 'holding', 'potion', 'ingredients', 'hours', 'upon', 'end', '.']
+163
+['for', 'once', 'her', 'pouchy', 'toad', '’', 's', 'eyes', 'were', 'not', 'sweeping', 'the', 'great', 'hall', 'looking', 'for', 'misbehaving', 'students', '.']
+164
+['she', 'was', 'wearing', 'a', 'set', 'of', 'spangled', 'silver', 'robes', 'that', 'were', 'attracting', 'a', 'certain', 'amount', 'of', 'giggles', 'from', 'the', 'onlookers', ',', 'but', 'otherwise', 'she', 'looked', 'quite', 'nice', '.']
+165
+['.', '”', 'people', 'around', 'them', 'were', 'drifting', 'away', ',', 'still', 'talking', 'excitedly', 'about', 'what', 'they', 'had', 'just', 'seen', '.']
+166
+['neighborhood', 'children', 'all', 'around', 'were', 'terrified', 'of', 'him', '—', 'even', 'more', 'terrified', 'than', 'they', 'were', 'of', '“', 'that', 'potter', 'boy', ',', '”', 'who', ',', 'they', 'had', 'been', 'warned', ',', 'was', 'a', 'hardened', 'hooligan', 'who', 'attended', 'st.', 'brutus', '’', 's', 'secure', 'center', 'for', 'incurably', 'criminal', 'boys', '.']
+167
+['the', 'house', 'tables', 'had', 'vanished', ';', 'instead', ',', 'there', 'were', 'about', 'a', 'hundred', 'smaller', ',', 'lantern-lit', 'ones', ',', 'each', 'seating', 'about', 'a', 'dozen', 'people', '.']
+168
+['hagrid', 'was', 'sitting', 'in', 'an', 'armchair', 'outside', 'his', 'house', ';', 'his', 'trousers', 'and', 'sleeves', 'were', 'rolled', 'up', ',', 'and', 'he', 'was', 'shelling', 'peas', 'into', 'a', 'large', 'bowl', '.']
+169
+['parvati', 'and', 'padma', 'were', 'now', 'sitting', 'at', 'a', 'distant', 'table', 'with', 'a', 'whole', 'crowd', 'of', 'beauxbatons', 'boys', ',', 'and', 'hermione', 'was', 'once', 'more', 'dancing', 'with', 'krum', '.']
+170
+['“', 'yeah', ',', 'it', 'was', '!', '”', '“', 'but', 'there', 'were', 'times', ',', '”', 'dumbledore', 'went', 'on', ',', '“', 'weren', '’', 't', 'there', ',', 'when', 'you', 'were', 'not', 'sure', 'you', 'would', 'succeed', 'in', 'mending', 'the', 'cabinet', '?']

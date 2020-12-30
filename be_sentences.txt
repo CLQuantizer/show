@@ -1,0 +1,64 @@
+0
+['it', 'was', 'important', ',', 'dumbledore', 'said', ',', 'to', 'fight', ',', 'and', 'fight', 'again', ',', 'and', 'keep', 'fighting', ',', 'for', 'only', 'then', 'could', 'evil', 'be', 'kept', 'at', 'bay', ',', 'though', 'never', 'quite', 'eradicated', '.']
+1
+['“', 'would', 'you', 'be', 'mr.', 'roberts', '?', '”', '“', 'aye', ',', 'i', 'would', ',', '”', 'said', 'mr.', 'roberts', '.']
+2
+['dream', 'interpretation', 'is', 'a', 'most', 'important', 'means', 'of', 'divining', 'the', 'future', 'and', 'one', 'that', 'may', 'very', 'probably', 'be', 'tested', 'in', 'your', 'o.w.l', '.']
+3
+['yeh', 'don', '’', 'have', 'ter', 'be', 'pureblood', 'ter', 'do', 'it', '.']
+4
+['“', 'he', 'might', 'even', 'be', 'pretending', ',', '”', 'said', 'one', 'specialist', '.']
+5
+['“', 'very', 'well', ',', 'potter', ',', 'i', 'will', 'take', 'your', 'word', 'for', 'it', 'this', 'time', ',', 'but', 'be', 'warned', ':', 'the', 'might', 'of', 'the', 'ministry', 'stands', 'behind', 'me', '.']
+6
+['she', '’', 'll', 'never', 'be', 'able', 'to', 'afford', 'a', 'nimbus', ',', 'but', 'there', '’', 's', 'the', 'new', 'cleansweep', 'out', ',', 'that', '’', 'd', 'be', 'great', '.']
+7
+['with', 'a', 'mum', 'an', '’', 'dad', 'like', 'yours', ',', 'what', 'else', 'would', 'yeh', 'be', '?']
+8
+['then', 'he', ',', 'the', 'leader', ',', 'might', 'as', 'well', 'be', 'packing', 'his', 'trunk', 'right', 'now', '.']
+9
+['“', 'no', '—', 'professor', 'dumbledore', '!', '”', '“', 'be', 'quiet', ',', 'harry', ',', 'or', 'i', 'am', 'afraid', 'you', 'will', 'have', 'to', 'leave', 'my', 'office', ',', '”', 'said', 'dumbledore', 'calmly', '.']
+10
+['and', 'what', 'use', 'would', 'it', 'be', 'to', 'deprive', 'voldemort', 'of', 'his', 'wand', ',', 'even', 'if', 'he', 'could', ',', 'when', 'he', 'was', 'surrounded', 'by', 'death', 'eaters', ',', 'outnumbered', 'by', 'at', 'least', 'thirty', 'to', 'one', '?']
+11
+['“', 'my', 'boy', ',', 'you', 'may', 'well', 'be', 'seeing', 'the', 'outcome', 'of', 'poor', 'hagrid', '’', 's', 'trouble', 'with', 'the', 'ministry', 'of', 'magic', '!']
+12
+['“', 'he', 'can', 'still', 'be', 'gamekeeper', ',', 'can', '’', 't', 'he', '?', '”', 'parvati', 'had', 'been', 'very', 'cool', 'toward', 'harry', 'since', 'the', 'ball', '.']
+13
+['“', 'maybe', 'they', 'won', '’', 't', 'know', 'which', 'of', 'the', 'twelve', 'secure', 'houses', 'i', '’', 'm', 'heading', 'for', 'at', 'first', ',', 'but', 'won', '’', 't', 'it', 'be', 'sort', 'of', 'obvious', 'once', '”', '—', 'he', 'performed', 'a', 'quick', 'headcount', '—', '“', 'fourteen', 'of', 'us', 'fly', 'off', 'toward', 'tonks', '’', 's', 'parents', '’', '?', '”', '“', 'ah', ',', '”', 'said', 'moody', ',', '“', 'i', 'forgot', 'to', 'mention', 'the', 'key', 'point', '.']
+14
+['today', 'he', '’', 'd', 'rather', 'be', 'back', 'in', 'his', 'cupboard', 'with', 'that', 'letter', 'than', 'up', 'here', 'without', 'it', '.']
+15
+['“', 'snape', 'kill', 'dumbledore', '—', 'don', '’', 'be', 'stupid', ',', 'harry', '.']
+16
+['but', 'he', '’', 'd', 'never', 'be', 'able', 'to', 'produce', 'a', 'proper', 'patronus', 'if', 'he', 'half', 'wanted', 'to', 'hear', 'his', 'parents', 'again', '.']
+17
+['why', 'should', 'he', 'be', 'afraid', 'of', 'snape', '?']
+18
+['“', 'please', 'be', 'careful', ',', 'hagrid', ',', '”', 'said', 'mr.', 'weasley', ',', 'who', 'was', 'standing', 'beside', 'them', ',', 'holding', 'his', 'broomstick', '.']
+19
+['please', 'be', 'very', 'sure', ',', 'therefore', ',', 'that', 'you', 'are', 'wholeheartedly', 'prepared', 'to', 'play', 'before', 'you', 'drop', 'your', 'name', 'into', 'the', 'goblet', '.']
+20
+['said', 'he', 'wants', 'ter', '—', 'ter', 'be', 'with', 'me', '.']
+21
+['undoubtedly', ',', 'harry', 'thought', ',', 'watching', 'him', 'over', 'the', 'top', 'of', 'his', 'own', 'book', ',', 'malfoy', 'was', 'begrudging', 'the', 'time', 'he', 'could', 'otherwise', 'be', 'spending', 'in', 'the', 'room', 'of', 'requirement', '.']
+22
+['“', 'so', 'be', 'very', 'careful', '!']
+23
+['“', 'like', 'i', '’', 'd', 'never', 'be', 'cheerful', 'again', '.']
+24
+['7.', 'unconfirmed', 'sightings', 'suggest', 'that', 'the', 'death', 'eaters', 'may', 'now', 'be', 'using', 'inferi', '(', 'see', 'page', '10', ')', '.']
+25
+['“', 'he', '’', 's', 'been', 'offering', 'me', 'plenty', 'of', 'help', '—', 'wanting', 'all', 'the', 'glory', 'for', 'himself', '—', 'wanting', 'a', 'bit', 'of', 'the', 'action', '—', '‘', 'what', 'are', 'you', 'doing', '?', '’', '‘', 'did', 'you', 'do', 'the', 'necklace', ',', 'that', 'was', 'stupid', ',', 'it', 'could', 'have', 'blown', 'everything', '—', '’', 'but', 'i', 'haven', '’', 't', 'told', 'him', 'what', 'i', '’', 've', 'been', 'doing', 'in', 'the', 'room', 'of', 'requirement', ',', 'he', '’', 's', 'going', 'to', 'wake', 'up', 'tomorrow', 'and', 'it', '’', 'll', 'all', 'be', 'over', 'and', 'he', 'won', '’', 't', 'be', 'the', 'dark', 'lord', '’', 's', 'favorite', 'anymore', ',', 'he', '’', 'll', 'be', 'nothing', 'compared', 'to', 'me', ',', 'nothing', '!', '”', '“', 'very', 'gratifying', ',', '”', 'said', 'dumbledore', 'mildly', '.']
+26
+['“', 'you', '’', 'd', 'better', 'get', 'going', ',', 'boys', ',', 'or', 'we', '’', 'll', 'all', 'be', 'in', 'trouble', '.']
+27
+['how', 'could', 'he', 'be', 'with', 'you', '?', '”', '“', 'no', 'one', 'was', 'with', 'us', '!', '”', 'said', 'harry', '.']
+28
+['an', '’', 'yeh', 'shouldn', '’', 'be', 'down', 'here', 'anyway', '.']
+29
+['he', 'guessed', 'it', 'would', 'just', 'be', 'a', 'house-elf', 'sent', 'by', 'dumbledore', ',', 'asking', 'him', 'to', 'come', 'to', 'dinner', '.']
+30
+['“', 'look', ',', 'i', 'wouldn', '’', 'be', 'tellin', '’', 'yer', 'this', 'at', 'all', 'if', 'i', 'didn', '’', 'have', 'ter', '.']
+31
+['“', 'we', 'may', 'as', 'well', 'be', 'comfortable', ',', '”', 'said', 'dumbledore', 'pleasantly', '.']
